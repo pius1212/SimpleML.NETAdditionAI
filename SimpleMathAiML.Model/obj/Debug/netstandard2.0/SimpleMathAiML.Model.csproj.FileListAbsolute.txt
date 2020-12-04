@@ -1,0 +1,10 @@
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\bin\Debug\netstandard2.0\SimpleMathAiML.Model.deps.json
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\bin\Debug\netstandard2.0\SimpleMathAiML.Model.dll
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\bin\Debug\netstandard2.0\SimpleMathAiML.Model.pdb
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\obj\Debug\netstandard2.0\SimpleMathAiML.Model.csprojAssemblyReference.cache
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\obj\Debug\netstandard2.0\SimpleMathAiML.Model.AssemblyInfoInputs.cache
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\obj\Debug\netstandard2.0\SimpleMathAiML.Model.AssemblyInfo.cs
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\obj\Debug\netstandard2.0\SimpleMathAiML.Model.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\obj\Debug\netstandard2.0\SimpleMathAiML.Model.dll
+C:\Users\Dell Precision\source\repos\SimpleMathAi\SimpleMathAiML.Model\obj\Debug\netstandard2.0\SimpleMathAiML.Model.pdb
